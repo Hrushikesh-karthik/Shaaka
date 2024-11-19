@@ -25,7 +25,7 @@ app.secret_key = os.urandom(24)
 db_config = {
     'host': 'localhost',
     'user': 'root',  # Change this to your MySQL username
-    'password': 'KARTHIK@2004',  # Change this to your MySQL password
+    'password': '',  # Change this to your MySQL password
     'database': 'farmer_market'
 }
 
